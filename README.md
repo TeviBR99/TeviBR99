@@ -1,5 +1,5 @@
 ## Hello there, I'm Tevi 👋
-<p> Welcome to my GitHub where I usually create projects in order to test my ideas </p>
+<p> Welcome to my GitHub where I usually create projects to test my ideas </p>
 
 ## :pencil2: About me
 

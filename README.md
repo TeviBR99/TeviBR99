@@ -11,10 +11,21 @@ Last but not least, it is important to mention that I do believe that our job wo
 
 
 ## :briefcase: Experience
-Thanks to go throghout many roles, I've been used a lot of technologies. However, in a brief summary I can say without any doubt that my skills are the following ones:
-
+Throghout all my roles, including during college, I used the next technologies:
+- 🛠️ Framweworks:
+  - Spring Boot
+  - Angular
+  - Django
+    
+- :computer: Programming languages:
+  - Java
+  - TypeScript
+  - JavaScript
+  - Python
+  - C++/C
 
 ## :inbox_tray: Contact me
+If you want to reach me out or you can hit my DM on Linkedin or send me an email in the followin address: tevialebr99@gmail.com
 
 
 <!--

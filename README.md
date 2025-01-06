@@ -1,11 +1,11 @@
 ## Hello there, I'm Tevi 👋
 <p> Welcome to my GitHub where I usually create projects in order to test my ideas </p>
 
-## About me
+## :pencil2: About me
 
-## Experience
+## :briefcase: Experience
 
-## Studies
+## :books: Studies
 
 
 

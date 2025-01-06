@@ -11,7 +11,7 @@ Last but not least, it is important to mention that I do believe that our job wo
 
 
 ## :briefcase: Experience
-Throghout all my roles, including during college, I used the next technologies:
+Throghout all my roles, including during college, I used the following technologies:
 - 🛠️ Framweworks:
   - Spring Boot
   - Angular

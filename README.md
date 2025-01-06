@@ -1,5 +1,4 @@
-<h1>Hello there, I'm Tevi 👋</h1> 
-
+## Hello there, I'm Tevi 👋
 <p> Welcome to my GitHub where I usually create projects in order to test my ideas </p>
 
 ## About me

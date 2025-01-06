@@ -1,6 +1,7 @@
 ## Hello there, I'm Tevi 👋
 Welcome to my GitHub where I usually create projects to test my ideas
 
+
 ## :pencil2: About me
 I'm a Software Engineer with 3 years of experience. I have worked as a Full Stack Developer, Backend and currently I'm covering a Frontend role. 
 
@@ -8,11 +9,12 @@ I do find every role interesting, that's why I have been fitting almost every ro
 
 Last but not least, it is important to mention that I do believe that our job works in hand with team work. I think it is essential to be a great developer as thoroughly a person who can assist their colleagues.
 
+
 ## :briefcase: Experience
 Thanks to go throghout many roles, I've been used a lot of technologies. However, in a brief summary I can say without any doubt that my skills are the following ones:
 
 
-
+## :inbox_tray: Contact me
 
 
 <!--

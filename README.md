@@ -1,4 +1,14 @@
-## Hi there 👋
+## Hello there, I'm Tevi 👋
+
+<p> Welcome to my GitHub where I usually create projects in order to test my ideas </p>
+
+## About me
+
+## Experience
+
+## Studies
+
+
 
 <!--
 **TeviBR99/TeviBR99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

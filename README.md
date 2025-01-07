@@ -23,7 +23,7 @@ Throghout all my roles, including during college, I used the following technolog
   - C++
 
 ## :inbox_tray: Contact me
-If you want to reach me out or you can hit my DM on Linkedin or send me an email in the followin address: tevialebr99@gmail.com
+If you want to reach me out you can send me an email in tevialebr99@gmail.com or you can hit my DM on Linkedin.
 
 
 <!--

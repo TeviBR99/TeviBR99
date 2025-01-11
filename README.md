@@ -5,7 +5,7 @@ Welcome to my GitHub where I usually create projects to test my ideas
 ## :pencil2: About me
 I'm a Software Engineer with 3 years of experience. I have worked as a Full Stack Developer, Backend and currently I'm covering a Frontend role. 
 
-Last but not least, it is important to mention that I do believe that our job works in hand with team work. I think it is essential to be a great developer as thoroughly a person who can assist their colleagues.
+Last but not least, I do believe that being a good developer is all about team work. I think it is essential to be a great developer as thoroughly a person who can assist their colleagues.
 
 
 ## :briefcase: Experience
